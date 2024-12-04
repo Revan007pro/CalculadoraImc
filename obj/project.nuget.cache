@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "dV8UoguLLEwHF4/xIUH/t7/erhgwGKv34qMUdrQoiSotpAVJVfesTZg/wblOfcPm6O2ncgzwUS8vQBCfb5CJ2A==",
+  "success": true,
+  "projectFilePath": "/media/jmanuel/FAE814B5E814725D/creaciones/c#/CalculadoraImc/CalculadoraImc.csproj",
+  "expectedPackageFiles": [
+    "/home/jmanuel/.nuget/packages/atksharp/3.24.24.95/atksharp.3.24.24.95.nupkg.sha512",
+    "/home/jmanuel/.nuget/packages/cairosharp/3.24.24.95/cairosharp.3.24.24.95.nupkg.sha512",
+    "/home/jmanuel/.nuget/packages/gdksharp/3.24.24.95/gdksharp.3.24.24.95.nupkg.sha512",
+    "/home/jmanuel/.nuget/packages/giosharp/3.24.24.95/giosharp.3.24.24.95.nupkg.sha512",
+    "/home/jmanuel/.nuget/packages/glibsharp/3.24.24.95/glibsharp.3.24.24.95.nupkg.sha512",
+    "/home/jmanuel/.nuget/packages/gtksharp/3.24.24.95/gtksharp.3.24.24.95.nupkg.sha512",
+    "/home/jmanuel/.nuget/packages/pangosharp/3.24.24.95/pangosharp.3.24.24.95.nupkg.sha512",
+    "/home/jmanuel/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.10/microsoft.netcore.app.runtime.linux-x64.8.0.10.nupkg.sha512",
+    "/home/jmanuel/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/8.0.10/microsoft.netcore.app.runtime.osx-x64.8.0.10.nupkg.sha512",
+    "/home/jmanuel/.nuget/packages/microsoft.netcore.app.runtime.win-x64/8.0.10/microsoft.netcore.app.runtime.win-x64.8.0.10.nupkg.sha512",
+    "/home/jmanuel/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.10/microsoft.aspnetcore.app.runtime.linux-x64.8.0.10.nupkg.sha512",
+    "/home/jmanuel/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/8.0.10/microsoft.aspnetcore.app.runtime.osx-x64.8.0.10.nupkg.sha512",
+    "/home/jmanuel/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/8.0.10/microsoft.aspnetcore.app.runtime.win-x64.8.0.10.nupkg.sha512",
+    "/home/jmanuel/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.10/microsoft.netcore.app.host.linux-x64.8.0.10.nupkg.sha512",
+    "/home/jmanuel/.nuget/packages/microsoft.netcore.app.host.osx-x64/8.0.10/microsoft.netcore.app.host.osx-x64.8.0.10.nupkg.sha512",
+    "/home/jmanuel/.nuget/packages/microsoft.netcore.app.host.win-x64/8.0.10/microsoft.netcore.app.host.win-x64.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

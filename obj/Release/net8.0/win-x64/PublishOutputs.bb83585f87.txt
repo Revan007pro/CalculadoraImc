@@ -1,0 +1,12 @@
+/media/jmanuel/FAE814B5E814725D/creaciones/c#/CalculadoraImc/bin/Release/net8.0/win-x64/publish/CalculadoraImc.exe
+/media/jmanuel/FAE814B5E814725D/creaciones/c#/CalculadoraImc/bin/Release/net8.0/win-x64/publish/CalculadoraImc.dll
+/media/jmanuel/FAE814B5E814725D/creaciones/c#/CalculadoraImc/bin/Release/net8.0/win-x64/publish/CalculadoraImc.deps.json
+/media/jmanuel/FAE814B5E814725D/creaciones/c#/CalculadoraImc/bin/Release/net8.0/win-x64/publish/CalculadoraImc.runtimeconfig.json
+/media/jmanuel/FAE814B5E814725D/creaciones/c#/CalculadoraImc/bin/Release/net8.0/win-x64/publish/CalculadoraImc.pdb
+/media/jmanuel/FAE814B5E814725D/creaciones/c#/CalculadoraImc/bin/Release/net8.0/win-x64/publish/AtkSharp.dll
+/media/jmanuel/FAE814B5E814725D/creaciones/c#/CalculadoraImc/bin/Release/net8.0/win-x64/publish/CairoSharp.dll
+/media/jmanuel/FAE814B5E814725D/creaciones/c#/CalculadoraImc/bin/Release/net8.0/win-x64/publish/GdkSharp.dll
+/media/jmanuel/FAE814B5E814725D/creaciones/c#/CalculadoraImc/bin/Release/net8.0/win-x64/publish/GioSharp.dll
+/media/jmanuel/FAE814B5E814725D/creaciones/c#/CalculadoraImc/bin/Release/net8.0/win-x64/publish/GLibSharp.dll
+/media/jmanuel/FAE814B5E814725D/creaciones/c#/CalculadoraImc/bin/Release/net8.0/win-x64/publish/GtkSharp.dll
+/media/jmanuel/FAE814B5E814725D/creaciones/c#/CalculadoraImc/bin/Release/net8.0/win-x64/publish/PangoSharp.dll
